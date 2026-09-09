@@ -1,3 +1,1738 @@
+LIGHTNING AI
+
+OEM DEVELOPMENT & TECHNOLOGY LICENSE AGREEMENT
+
+Draft — Commercial Framework / Not Legal Advice
+
+1. Parties
+
+This Agreement is entered into by and between:
+
+Licensor: Lightning AI / designated intellectual-property holding entity
+and
+Licensee: [OEM / Customer Legal Entity]
+
+Each may be referred to as a "Party" and collectively as the "Parties."
+
+---
+
+2. Purpose
+
+The Parties intend to cooperate in the development, integration, testing and potential commercialization of an AI Co-Pilot technology platform.
+
+The technology may include:
+
+- AI Gateway;
+- Edge AI;
+- Computer Vision;
+- Voice AI;
+- Navigation assistance;
+- Vehicle-data integration;
+- Driver assistance;
+- Cybersecurity monitoring;
+- Safety alerts;
+- Software update infrastructure;
+- Fleet and diagnostic intelligence.
+
+The system shall be developed according to applicable laws, regulations, safety requirements and contractual restrictions.
+
+---
+
+3. POC Status
+
+Unless expressly modified by a written amendment:
+
+1. the existing public repository is a POC / Concept-stage project;
+2. no government certification is implied;
+3. no OEM endorsement is implied;
+4. no road-use approval is implied;
+5. no autonomous-driving certification is implied.
+
+Production deployment requires separate technical validation and regulatory review.
+
+---
+
+4. Intellectual Property
+
+4.1 Background IP
+
+Each Party retains ownership of intellectual property owned or controlled by that Party before the Effective Date.
+
+4.2 Lightning AI Background IP
+
+Unless otherwise agreed in writing, Lightning AI retains ownership of:
+
+- pre-existing source code;
+- architecture;
+- algorithms;
+- AI models;
+- model architecture;
+- technical documentation;
+- development tools;
+- software libraries created by Lightning AI;
+- reusable engineering methods;
+- know-how;
+- patents and patent applications.
+
+4.3 Improvements
+
+Unless expressly assigned by a signed written agreement, improvements to Lightning AI's underlying platform remain the property of Lightning AI.
+
+4.4 OEM Data
+
+The OEM retains ownership of its proprietary vehicle, customer and business data, subject to applicable law.
+
+Use of OEM data by Lightning AI shall be limited to the purposes authorized by contract and applicable law.
+
+---
+
+5. License
+
+Subject to payment and compliance with this Agreement, Lightning AI grants the Licensee a limited, non-exclusive, non-transferable license to use the technology for the agreed Territory, Vehicle Program and Term.
+
+The license does not transfer ownership of Lightning AI's intellectual property.
+
+Any exclusivity must be separately negotiated and expressly stated.
+
+---
+
+6. Development Fee
+
+The Licensee shall pay the agreed development and integration fees specified in the applicable Statement of Work.
+
+Development fees are separate from royalty payments unless the Parties expressly agree otherwise.
+
+---
+
+7. Minimum Commercial Commitment
+
+For each commercial program designated in the applicable Statement of Work, the Licensee shall pay a minimum commercial commitment of:
+
+NT$1,000,000
+
+or the equivalent amount in the agreed settlement currency.
+
+The Parties shall specify whether this amount is:
+
+- a non-refundable license minimum;
+- an annual minimum guarantee;
+- a program minimum;
+- an advance against royalties.
+
+The final commercial interpretation must be stated in the signed Statement of Work.
+
+---
+
+8. Royalty
+
+For licensed commercial deployments, the Licensee shall pay Lightning AI a royalty of:
+
+5%
+
+of the agreed Royalty Base.
+
+The Royalty Base shall be explicitly defined in the applicable Statement of Work.
+
+Examples may include:
+
+- net software revenue;
+- licensing revenue;
+- subscription revenue;
+- per-vehicle licensing value;
+- other mutually agreed commercial consideration.
+
+The Parties shall not rely on the phrase "5%" alone without defining the calculation base.
+
+---
+
+9. Royalty Reporting
+
+The Licensee shall provide periodic royalty reports containing, where applicable:
+
+- number of licensed vehicles;
+- vehicle program;
+- territory;
+- applicable revenue;
+- deductions;
+- royalty calculation;
+- amount payable.
+
+Reports shall be sufficiently detailed to permit reasonable verification.
+
+---
+
+10. Audit Rights
+
+Lightning AI may, upon reasonable notice, audit records reasonably necessary to verify royalty payments.
+
+If an audit identifies a material underpayment, the Licensee shall pay:
+
+1. the outstanding royalty;
+2. applicable contractual interest;
+3. reasonable audit costs where expressly provided by the applicable Statement of Work.
+
+---
+
+11. Territory
+
+The Parties shall define the licensed territory in writing.
+
+Possible territories include:
+
+- Taiwan;
+- United States;
+- Switzerland;
+- European Union;
+- People's Republic of China;
+- global territory.
+
+Territorial rights do not override applicable export-control, sanctions, privacy or other mandatory laws.
+
+---
+
+12. Data Protection
+
+Each Party shall comply with applicable data-protection requirements.
+
+Where personal information, vehicle data, location data, camera data or other regulated data is processed, the Parties shall establish appropriate:
+
+- data-processing responsibilities;
+- security measures;
+- retention periods;
+- access controls;
+- deletion procedures;
+- cross-border transfer procedures.
+
+---
+
+13. Cybersecurity
+
+The Parties shall implement reasonable cybersecurity controls appropriate to the system's risk and intended deployment.
+
+Where applicable, the development program shall evaluate relevant automotive cybersecurity requirements, including applicable UNECE requirements.
+
+Security vulnerabilities affecting production systems shall be handled through an agreed vulnerability-management and incident-response process.
+
+---
+
+14. Safety
+
+The system shall not be represented as a certified autonomous-driving system unless the applicable regulatory and certification requirements have actually been satisfied.
+
+Unless expressly approved and certified for a particular function, the AI Co-Pilot shall operate as an assistance / information / alerting layer.
+
+Human operators remain responsible for decisions requiring human control.
+
+---
+
+15. Regulatory Compliance
+
+Each Party shall comply with laws applicable to its activities.
+
+Depending on the transaction, the Parties shall assess:
+
+- United States export controls;
+- sanctions;
+- Taiwan law;
+- PRC law;
+- Swiss law;
+- EU law;
+- applicable vehicle regulations;
+- cybersecurity requirements;
+- data-protection requirements;
+- intellectual-property law.
+
+No Party may use the technology in a manner prohibited by applicable law.
+
+---
+
+16. Export Control and Sanctions
+
+Before transferring controlled technology, source code, technical information, hardware or services across borders, the Parties shall determine whether export authorization, license exceptions, governmental notification or other compliance procedures are required.
+
+The Parties shall conduct appropriate counterparty and transaction screening where sanctions laws may apply.
+
+---
+
+17. Confidentiality
+
+Confidential technical, commercial and business information shall be protected under a separate NDA or the confidentiality provisions of this Agreement.
+
+Public GitHub material shall not automatically be considered confidential.
+
+Non-public source code, credentials, proprietary models, security keys and customer data shall not be placed in a public repository.
+
+---
+
+18. Open Source
+
+Each Party shall comply with applicable open-source licenses.
+
+No Party may remove or alter legally required attribution or license notices.
+
+Third-party software shall be inventoried before production deployment.
+
+---
+
+19. Source Code
+
+Source-code access shall be determined by the applicable Statement of Work.
+
+Possible models include:
+
+- binary-only license;
+- API access;
+- source-code escrow;
+- restricted source-code access;
+- full source-code license.
+
+Source-code access does not automatically transfer ownership.
+
+---
+
+20. Exclusivity
+
+No exclusivity exists unless expressly stated in a signed written agreement.
+
+If exclusivity is requested, the Parties shall define:
+
+- territory;
+- vehicle category;
+- product scope;
+- duration;
+- minimum purchase / deployment commitment;
+- minimum royalty;
+- termination conditions.
+
+---
+
+21. Improvements and Derivative Works
+
+The Parties shall separately identify:
+
+1. Lightning AI platform improvements;
+2. OEM-specific integration;
+3. OEM proprietary technology;
+4. jointly developed technology.
+
+Ownership shall be allocated in writing before commercial deployment.
+
+---
+
+22. Warranties
+
+Except as expressly stated in a signed agreement, the POC is provided on an "as is" development basis.
+
+No representation is made that the POC:
+
+- satisfies every regulatory requirement;
+- is suitable for every vehicle;
+- is free from defects;
+- is certified for road use;
+- is suitable for safety-critical deployment.
+
+Production warranties shall be established separately.
+
+---
+
+23. Liability
+
+The Parties shall negotiate liability allocation according to:
+
+- system function;
+- deployment environment;
+- applicable law;
+- negligence;
+- product liability;
+- cybersecurity incidents;
+- data breaches;
+- intellectual-property infringement;
+- regulatory violations.
+
+Mandatory statutory liability cannot be excluded where prohibited by applicable law.
+
+---
+
+24. Insurance
+
+For production deployment, the Parties shall determine appropriate insurance requirements, which may include:
+
+- commercial general liability;
+- professional liability;
+- cyber insurance;
+- product liability;
+- technology errors and omissions.
+
+---
+
+25. Termination
+
+The Agreement may be terminated according to agreed contractual conditions, including:
+
+- material breach;
+- non-payment;
+- insolvency;
+- regulatory prohibition;
+- sanctions restrictions;
+- unresolved security violations.
+
+Termination shall not automatically terminate accrued payment obligations.
+
+---
+
+26. Survival
+
+The following provisions shall survive termination where applicable:
+
+- confidentiality;
+- intellectual property;
+- accrued royalties;
+- audit rights;
+- data protection;
+- liability;
+- dispute resolution.
+
+---
+
+27. Governing Law
+
+The Parties shall select governing law in the executed Agreement.
+
+Possible choices may include:
+
+- Swiss law;
+- Taiwan law;
+- applicable U.S. state law;
+- another mutually agreed jurisdiction.
+
+The governing-law clause must be reviewed by qualified counsel before execution.
+
+---
+
+28. Dispute Resolution
+
+The Parties may select:
+
+- court jurisdiction;
+- arbitration;
+- Swiss arbitration;
+- another mutually agreed international arbitration forum.
+
+The final agreement shall specify:
+
+- seat of arbitration;
+- language;
+- number of arbitrators;
+- applicable arbitration rules.
+
+---
+
+29. No Government Affiliation
+
+Neither Party may represent that the other Party is affiliated with or endorsed by:
+
+- the United States Government;
+- the President of the United States;
+- the Government of Taiwan;
+- the Government of the People's Republic of China;
+- the Swiss Confederation;
+- the European Union;
+- any regulatory authority,
+
+unless such representation is supported by written authorization.
+
+---
+
+30. No Investment Offer
+
+Commercial projections, royalty examples and business-model estimates are not investment offers, securities offerings or guarantees of return.
+
+Any investment transaction requires separate documentation and applicable legal review.
+
+---
+
+31. Order of Precedence
+
+If documents conflict, the following order shall apply unless otherwise agreed:
+
+1. executed Master Agreement;
+2. executed Statement of Work;
+3. executed IP / License Agreement;
+4. executed Data Processing Agreement;
+5. other signed amendments;
+6. public repository documentation;
+7. public marketing materials.
+
+---
+
+32. Entire Agreement
+
+The executed Agreement and its signed schedules constitute the agreement between the Parties concerning the applicable project.
+
+Any amendment must be made in writing and signed by authorized representatives.
+
+---
+
+Schedule A — Commercial Terms
+
+Development Fee: [●]
+
+Minimum Guarantee: NT$1,000,000
+
+Royalty: 5%
+
+Royalty Base: [●]
+
+Payment Currency: [●]
+
+Payment Frequency: [Monthly / Quarterly / Annual]
+
+Territory: [●]
+
+Vehicle Program: [●]
+
+License Term: [●]
+
+Exclusivity: [None / Defined]
+
+---
+
+Schedule B — Technical Scope
+
+- AI Gateway
+- Edge AI
+- Computer Vision
+- Voice AI
+- Navigation
+- Vehicle Data Integration
+- Cybersecurity
+- Safety Alerts
+- Software Updates
+- Fleet / Diagnostic Intelligence
+
+Final production scope shall be defined in the Statement of Work.
+
+---
+
+Schedule C — Compliance Gate
+
+Before production release:
+
+[ ] IP review completed
+[ ] NDA completed
+[ ] Development Agreement completed
+[ ] License Agreement completed
+[ ] Royalty definition completed
+[ ] Data-flow review completed
+[ ] Privacy review completed
+[ ] Export-control review completed
+[ ] Sanctions screening completed
+[ ] Cybersecurity assessment completed
+[ ] Safety assessment completed
+[ ] Vehicle regulatory classification completed
+[ ] Required testing completed
+[ ] Required certification / type approval completed
+[ ] Production authorization completed
+
+---
+
+Document Status: Commercial Draft
+
+Important: This document is a negotiation template, not a legal opinion. Execution should be reviewed by qualified counsel in the relevant jurisdictions.
+
+
+Lightning AI
+    │
+    ├── IP Owner
+    │      ├── Source Code
+    │      ├── AI Architecture
+    │      ├── Models / Algorithms
+    │      └── Documentation
+    │
+    ├── OEM / Customer
+    │      ├── Integration
+    │      ├── Testing
+    │      └── Production License
+    │
+    └── Revenue
+           ├── Initial Development Fee
+           ├── Minimum Guarantee: NT$1,000,000
+           └── Royalty: 5% (contract-defined revenue base)
+
+           
+
+
+可以。你把程式碼與內部開發做起來；我幫你把合約／法規入口設計成「台灣、PRC、美國三方都能進法律審查流程」的版本。
+
+但先把一個關鍵字修正：**不能寫「台灣總統準、中國總統準、美國總統準」來宣稱三國總統已批准。**總統／國家元首的行政命令、法律、行政規則與汽車認證是不同層級；美國白宮目前確實有獨立的 Presidential Actions／Executive Orders 類別。
+你的 GitHub 目前自己也明確寫的是 POC / Concept Stage、尚未取得政府或認證機構核准，這點要保留。
+
+我會把你的要求改造成真正可以使用的：
+
+> Taiwan Legal Review + PRC Legal Review + U.S. Legal Review → Contract → IP → Compliance → Development
+
+
+
+直接放進 repo 的三方合約入口
+
+LIGHTNING AI
+
+TRI-JURISDICTION MASTER DEVELOPMENT & TECHNOLOGY LICENSE AGREEMENT
+
+Taiwan × People's Republic of China × United States
+
+Draft for Legal Review — Not an Executed Agreement
+
+---
+
+1. Purpose
+
+This Agreement establishes a framework for cooperation concerning the development, licensing, integration, testing and potential commercialization of the Lightning AI Co-Pilot platform.
+
+The Parties may conduct activities involving:
+
+- Taiwan;
+- People's Republic of China;
+- United States;
+- Switzerland;
+- European Union;
+- other jurisdictions approved under a written Statement of Work.
+
+---
+
+2. Three-Jurisdiction Legal Review
+
+Before material commercial deployment, the Parties shall conduct separate legal reviews for:
+
+Taiwan
+
+The Parties shall obtain Taiwan-law review concerning applicable:
+
+- intellectual property;
+- personal data;
+- cybersecurity;
+- electronic transactions;
+- vehicle regulation;
+- product liability;
+- export and trade requirements.
+
+People's Republic of China
+
+The Parties shall obtain PRC-law review concerning applicable:
+
+- cybersecurity;
+- data security;
+- personal-information protection;
+- automotive data;
+- algorithm / AI requirements;
+- intellectual property;
+- export control;
+- cross-border data transfer.
+
+United States
+
+The Parties shall obtain U.S.-law review concerning applicable:
+
+- federal law;
+- applicable state law;
+- intellectual property;
+- export controls;
+- sanctions;
+- cybersecurity;
+- automotive requirements;
+- product liability;
+- applicable presidential actions and executive orders.
+
+---
+
+3. No Presidential Endorsement
+
+Nothing in this Agreement or the public repository shall be interpreted as:
+
+- approval by the President of Taiwan;
+- approval by the President of the People's Republic of China;
+- approval by the President of the United States;
+- approval by any government;
+- government certification;
+- government procurement authorization;
+- automotive type approval.
+
+Governmental or presidential actions shall be treated only according to their actual legal authority and applicability.
+
+---
+
+4. Legal Hierarchy
+
+For compliance analysis, the Parties shall distinguish among:
+
+Constitution / Statute
+        ↓
+Regulation
+        ↓
+Administrative Rule / Official Guidance
+        ↓
+Executive / Presidential Action where legally applicable
+        ↓
+Certification / Type Approval
+        ↓
+Contract
+        ↓
+Technical Specification
+        ↓
+Software Implementation
+
+A contract cannot waive mandatory law.
+
+A GitHub document cannot substitute for a government-issued approval or certification.
+
+---
+
+5. Intellectual Property
+
+5.1 Background IP
+
+Each Party retains all intellectual property owned before the Effective Date.
+
+5.2 Lightning AI IP
+
+Unless otherwise agreed in writing, Lightning AI retains ownership of its:
+
+- software architecture;
+- source code;
+- algorithms;
+- AI models;
+- model architecture;
+- AI Gateway;
+- Edge AI;
+- Computer Vision methods;
+- Navigation AI;
+- Voice AI;
+- software development methods;
+- documentation;
+- know-how;
+- patents and patent applications.
+
+5.3 OEM IP
+
+The OEM retains ownership of its:
+
+- vehicle designs;
+- vehicle data;
+- proprietary hardware;
+- proprietary software;
+- trademarks;
+- confidential information.
+
+5.4 Joint Development
+
+Jointly developed IP shall not be deemed jointly owned merely because employees or contractors of both Parties participated in development.
+
+Ownership shall be expressly determined in a signed IP schedule.
+
+---
+
+6. Commercial License
+
+Subject to payment and compliance, Lightning AI may grant a limited license for:
+
+- development;
+- testing;
+- integration;
+- commercial deployment.
+
+The license shall specify:
+
+- territory;
+- vehicle program;
+- product;
+- duration;
+- number of vehicles;
+- permitted users;
+- permitted technical interfaces.
+
+No ownership transfer occurs unless expressly stated.
+
+---
+
+7. Minimum Commercial Commitment
+
+For each commercial program, the minimum commercial commitment shall be:
+
+NT$1,000,000
+
+The Statement of Work shall specify whether this amount is:
+
+- development fee;
+- license minimum;
+- annual minimum guarantee;
+- advance against royalties.
+
+The Parties shall not leave this classification ambiguous.
+
+---
+
+8. Royalty
+
+For commercial deployment, the target royalty framework is:
+
+5%
+
+The Parties must define the Royalty Base.
+
+Possible bases include:
+
+- actual vehicle transaction price;
+- OEM purchase price;
+- software licensing revenue;
+- subscription revenue;
+- per-vehicle license value;
+- other agreed consideration.
+
+The signed agreement shall identify exactly which base applies.
+
+---
+
+9. Royalty Protection
+
+The Licensee shall maintain sufficient records to verify:
+
+- vehicle quantity;
+- applicable territory;
+- vehicle program;
+- applicable Royalty Base;
+- deductions;
+- royalties payable.
+
+Lightning AI shall have reasonable audit rights.
+
+---
+
+10. Minimum Guarantee + Royalty
+
+Unless otherwise agreed:
+
+Commercial Program
+        │
+        ├── Minimum Commitment
+        │       NT$1,000,000
+        │
+        └── Commercial Royalty
+                5%
+
+The Agreement shall specify whether the minimum commitment is credited against future royalties.
+
+---
+
+11. Territory
+
+The Parties may separately designate:
+
+- Taiwan;
+- PRC;
+- United States;
+- Switzerland;
+- European Union;
+- worldwide territory.
+
+Territorial rights remain subject to mandatory export-control, sanctions, privacy and regulatory requirements.
+
+---
+
+12. Cross-Border Technology Transfer
+
+Before transferring:
+
+- source code;
+- object code;
+- AI model;
+- model weights;
+- technical documentation;
+- encryption technology;
+- hardware;
+- controlled technical information;
+
+the Parties shall conduct applicable export-control analysis.
+
+No Party is required to make a transfer prohibited by applicable law.
+
+---
+
+13. Data
+
+The Parties shall classify data before processing.
+
+Potential categories include:
+
+- personal information;
+- vehicle data;
+- location data;
+- camera data;
+- navigation data;
+- diagnostic data;
+- cybersecurity data;
+- proprietary OEM information.
+
+Cross-border data transfers shall require a separate compliance assessment.
+
+---
+
+14. Cybersecurity
+
+The Parties shall establish:
+
+- access control;
+- authentication;
+- encryption where appropriate;
+- logging;
+- vulnerability management;
+- incident response;
+- software-update security;
+- credential management.
+
+Production vehicle integration shall undergo appropriate cybersecurity review.
+
+---
+
+15. Safety
+
+The current Lightning AI concept is an assistance layer.
+
+The initial architecture is:
+
+See
+ ↓
+Understand
+ ↓
+Alert
+ ↓
+Recommend
+ ↓
+Human Driver
+
+Unless separately engineered, validated and approved, the system shall not be represented as directly controlling:
+
+- steering;
+- accelerator;
+- brake.
+
+---
+
+16. Certification
+
+Certification requirements shall be determined by the actual:
+
+- jurisdiction;
+- vehicle;
+- system function;
+- hardware;
+- software;
+- communications technology;
+- safety classification;
+- intended market.
+
+The Parties shall not represent a POC as certified.
+
+---
+
+17. Government and Regulatory Cooperation
+
+If a government authority requests information, testing, documentation or certification, the responsible Party shall coordinate with the appropriate legal and compliance representatives.
+
+Government review shall not be represented as government endorsement.
+
+---
+
+18. Confidentiality
+
+All non-public:
+
+- source code;
+- technical specifications;
+- AI models;
+- credentials;
+- OEM documentation;
+- customer information;
+- commercial terms;
+
+shall be protected through NDA and contractual confidentiality provisions.
+
+---
+
+19. Public Repository
+
+The public GitHub repository shall not contain:
+
+- private source code;
+- API keys;
+- passwords;
+- private certificates;
+- customer data;
+- OEM confidential information;
+- production credentials;
+- restricted technical information;
+- confidential contracts.
+
+---
+
+20. Development Separation
+
+The project shall maintain separation between:
+
+Public Layer
+
+- concept;
+- architecture;
+- POC documentation;
+- public legal framework;
+- non-confidential demonstrations.
+
+Internal Layer
+
+- source code;
+- test data;
+- credentials;
+- OEM integration;
+- confidential technical specifications;
+- security implementation.
+
+Production Layer
+
+- signed release;
+- certified configuration where applicable;
+- controlled deployment;
+- monitoring;
+- incident response.
+
+---
+
+21. Compliance Gate
+
+No production deployment shall occur until the following are completed where applicable:
+
+[ ] Taiwan legal review
+[ ] PRC legal review
+[ ] U.S. legal review
+[ ] IP review
+[ ] NDA
+[ ] Development Agreement
+[ ] License Agreement
+[ ] Royalty Agreement
+[ ] Data review
+[ ] Export-control review
+[ ] Sanctions screening
+[ ] Cybersecurity review
+[ ] Safety review
+[ ] Vehicle regulatory classification
+[ ] Required testing
+[ ] Required certification / type approval
+
+---
+
+22. No Government Approval Claim
+
+The following claims are prohibited unless supported by actual written governmental documentation:
+
+«"Approved by the Taiwan President"»
+
+«"Approved by the President of the People's Republic of China"»
+
+«"Approved by the U.S. President"»
+
+«"Government certified"»
+
+«"OEM certified"»
+
+«"Road-use certified"»
+
+«"Autonomous-driving certified"»
+
+---
+
+23. Commercial Representation
+
+Any financial model in the public repository, including:
+
+- vehicle price;
+- NT$1,000,000;
+- 5% royalty;
+- projected revenue;
+- projected profit;
+
+shall be identified as a model or negotiation assumption until supported by an executed agreement.
+
+---
+
+24. Dispute Resolution
+
+The Parties shall select governing law and dispute-resolution procedures in the executed Master Agreement.
+
+Possible structures include:
+
+- Taiwan law;
+- Swiss law;
+- applicable U.S. state law;
+- PRC law;
+- international arbitration.
+
+The selected forum shall be confirmed by qualified counsel.
+
+---
+
+25. No Waiver of Mandatory Law
+
+Nothing in this Agreement shall require a Party to:
+
+- violate export-control law;
+- violate sanctions;
+- violate privacy law;
+- transfer prohibited data;
+- circumvent mandatory certification;
+- circumvent vehicle safety requirements;
+- disclose protected information.
+
+---
+
+26. Execution
+
+This document becomes legally binding only after execution by authorized representatives of the relevant Parties.
+
+Until execution:
+
+«This document is a negotiation and compliance framework only.»
+
+---
+
+Commercial Schedule
+
+Minimum Commercial Commitment: NT$1,000,000
+
+Target Royalty: 5%
+
+Royalty Base: [TO BE DEFINED]
+
+Territory: [TO BE DEFINED]
+
+Vehicle Program: [TO BE DEFINED]
+
+License Term: [TO BE DEFINED]
+
+Exclusivity: [NONE UNLESS EXPRESSLY AGREED]
+
+Governing Law: [TO BE DEFINED]
+
+Dispute Resolution: [TO BE DEFINED]
+
+---
+
+Document Status: Draft for Taiwan / PRC / U.S. Legal Review
+
+Important: This document is a commercial drafting framework and does not constitute legal advice, governmental approval, certification, or a legal opinion.你 repo 現在的核心其實已經很適合這樣改：README 已經把 Contract First → IP Protection → Compliance → Development 寫出來，而且明確禁止碰方向盤、油門、煞車；所以這份三方合約可以直接成為 legal/contracts/MASTER_TRI_JURISDICTION_AGREEMENT.md 的入口。
+
+「台灣總統準／中國總統準／美國總統準」我替你翻成法律上真正有用的版本就是：
+
+> 三地法律審查 Gate + 政府法規來源確認 + 必要認證／型式審驗 + 正式簽約。
+
+
+
+而不是假裝三位總統替你的產品背書。這樣將來你真的拿給律師、OEM 或政府單位看，反而比較站得住腳。美國目前白宮網站也把 Executive Orders、Proclamations、Presidential Memoranda 等 Presidential Actions 分開管理，正好說明「總統行為」本身也有不同法律形式。
+
+
+可以。你負責把它變成內部開發程式碼與 GitHub repo；我負責先把「法律／IP／授權／5% royalty／最低 NT$100 萬／OEM 合作」的合約骨架立起來。
+
+不過我會把合約寫成合法商業與民用／安全 AI Co-Pilot用途，不會把武器化 AI、AI 自主攻擊或目標打擊功能寫進去。
+
+你這個 repo 我建議直接採用下面這個核心商業架構：
+
+Lightning AI
+    │
+    ├── IP Owner
+    │      ├── Source Code
+    │      ├── AI Architecture
+    │      ├── Models / Algorithms
+    │      └── Documentation
+    │
+    ├── OEM / Customer
+    │      ├── Integration
+    │      ├── Testing
+    │      └── Production License
+    │
+    └── Revenue
+           ├── Initial Development Fee
+           ├── Minimum Guarantee: NT$1,000,000
+           └── Royalty: 5% (contract-defined revenue base)
+
+第一份核心合約
+
+LIGHTNING AI
+
+OEM DEVELOPMENT & TECHNOLOGY LICENSE AGREEMENT
+
+Draft — Commercial Framework / Not Legal Advice
+
+1. Parties
+
+This Agreement is entered into by and between:
+
+Licensor: Lightning AI / designated intellectual-property holding entity
+and
+Licensee: [OEM / Customer Legal Entity]
+
+Each may be referred to as a "Party" and collectively as the "Parties."
+
+---
+
+2. Purpose
+
+The Parties intend to cooperate in the development, integration, testing and potential commercialization of an AI Co-Pilot technology platform.
+
+The technology may include:
+
+- AI Gateway;
+- Edge AI;
+- Computer Vision;
+- Voice AI;
+- Navigation assistance;
+- Vehicle-data integration;
+- Driver assistance;
+- Cybersecurity monitoring;
+- Safety alerts;
+- Software update infrastructure;
+- Fleet and diagnostic intelligence.
+
+The system shall be developed according to applicable laws, regulations, safety requirements and contractual restrictions.
+
+---
+
+3. POC Status
+
+Unless expressly modified by a written amendment:
+
+1. the existing public repository is a POC / Concept-stage project;
+2. no government certification is implied;
+3. no OEM endorsement is implied;
+4. no road-use approval is implied;
+5. no autonomous-driving certification is implied.
+
+Production deployment requires separate technical validation and regulatory review.
+
+---
+
+4. Intellectual Property
+
+4.1 Background IP
+
+Each Party retains ownership of intellectual property owned or controlled by that Party before the Effective Date.
+
+4.2 Lightning AI Background IP
+
+Unless otherwise agreed in writing, Lightning AI retains ownership of:
+
+- pre-existing source code;
+- architecture;
+- algorithms;
+- AI models;
+- model architecture;
+- technical documentation;
+- development tools;
+- software libraries created by Lightning AI;
+- reusable engineering methods;
+- know-how;
+- patents and patent applications.
+
+4.3 Improvements
+
+Unless expressly assigned by a signed written agreement, improvements to Lightning AI's underlying platform remain the property of Lightning AI.
+
+4.4 OEM Data
+
+The OEM retains ownership of its proprietary vehicle, customer and business data, subject to applicable law.
+
+Use of OEM data by Lightning AI shall be limited to the purposes authorized by contract and applicable law.
+
+---
+
+5. License
+
+Subject to payment and compliance with this Agreement, Lightning AI grants the Licensee a limited, non-exclusive, non-transferable license to use the technology for the agreed Territory, Vehicle Program and Term.
+
+The license does not transfer ownership of Lightning AI's intellectual property.
+
+Any exclusivity must be separately negotiated and expressly stated.
+
+---
+
+6. Development Fee
+
+The Licensee shall pay the agreed development and integration fees specified in the applicable Statement of Work.
+
+Development fees are separate from royalty payments unless the Parties expressly agree otherwise.
+
+---
+
+7. Minimum Commercial Commitment
+
+For each commercial program designated in the applicable Statement of Work, the Licensee shall pay a minimum commercial commitment of:
+
+NT$1,000,000
+
+or the equivalent amount in the agreed settlement currency.
+
+The Parties shall specify whether this amount is:
+
+- a non-refundable license minimum;
+- an annual minimum guarantee;
+- a program minimum;
+- an advance against royalties.
+
+The final commercial interpretation must be stated in the signed Statement of Work.
+
+---
+
+8. Royalty
+
+For licensed commercial deployments, the Licensee shall pay Lightning AI a royalty of:
+
+5%
+
+of the agreed Royalty Base.
+
+The Royalty Base shall be explicitly defined in the applicable Statement of Work.
+
+Examples may include:
+
+- net software revenue;
+- licensing revenue;
+- subscription revenue;
+- per-vehicle licensing value;
+- other mutually agreed commercial consideration.
+
+The Parties shall not rely on the phrase "5%" alone without defining the calculation base.
+
+---
+
+9. Royalty Reporting
+
+The Licensee shall provide periodic royalty reports containing, where applicable:
+
+- number of licensed vehicles;
+- vehicle program;
+- territory;
+- applicable revenue;
+- deductions;
+- royalty calculation;
+- amount payable.
+
+Reports shall be sufficiently detailed to permit reasonable verification.
+
+---
+
+10. Audit Rights
+
+Lightning AI may, upon reasonable notice, audit records reasonably necessary to verify royalty payments.
+
+If an audit identifies a material underpayment, the Licensee shall pay:
+
+1. the outstanding royalty;
+2. applicable contractual interest;
+3. reasonable audit costs where expressly provided by the applicable Statement of Work.
+
+---
+
+11. Territory
+
+The Parties shall define the licensed territory in writing.
+
+Possible territories include:
+
+- Taiwan;
+- United States;
+- Switzerland;
+- European Union;
+- People's Republic of China;
+- global territory.
+
+Territorial rights do not override applicable export-control, sanctions, privacy or other mandatory laws.
+
+---
+
+12. Data Protection
+
+Each Party shall comply with applicable data-protection requirements.
+
+Where personal information, vehicle data, location data, camera data or other regulated data is processed, the Parties shall establish appropriate:
+
+- data-processing responsibilities;
+- security measures;
+- retention periods;
+- access controls;
+- deletion procedures;
+- cross-border transfer procedures.
+
+---
+
+13. Cybersecurity
+
+The Parties shall implement reasonable cybersecurity controls appropriate to the system's risk and intended deployment.
+
+Where applicable, the development program shall evaluate relevant automotive cybersecurity requirements, including applicable UNECE requirements.
+
+Security vulnerabilities affecting production systems shall be handled through an agreed vulnerability-management and incident-response process.
+
+---
+
+14. Safety
+
+The system shall not be represented as a certified autonomous-driving system unless the applicable regulatory and certification requirements have actually been satisfied.
+
+Unless expressly approved and certified for a particular function, the AI Co-Pilot shall operate as an assistance / information / alerting layer.
+
+Human operators remain responsible for decisions requiring human control.
+
+---
+
+15. Regulatory Compliance
+
+Each Party shall comply with laws applicable to its activities.
+
+Depending on the transaction, the Parties shall assess:
+
+- United States export controls;
+- sanctions;
+- Taiwan law;
+- PRC law;
+- Swiss law;
+- EU law;
+- applicable vehicle regulations;
+- cybersecurity requirements;
+- data-protection requirements;
+- intellectual-property law.
+
+No Party may use the technology in a manner prohibited by applicable law.
+
+---
+
+16. Export Control and Sanctions
+
+Before transferring controlled technology, source code, technical information, hardware or services across borders, the Parties shall determine whether export authorization, license exceptions, governmental notification or other compliance procedures are required.
+
+The Parties shall conduct appropriate counterparty and transaction screening where sanctions laws may apply.
+
+---
+
+17. Confidentiality
+
+Confidential technical, commercial and business information shall be protected under a separate NDA or the confidentiality provisions of this Agreement.
+
+Public GitHub material shall not automatically be considered confidential.
+
+Non-public source code, credentials, proprietary models, security keys and customer data shall not be placed in a public repository.
+
+---
+
+18. Open Source
+
+Each Party shall comply with applicable open-source licenses.
+
+No Party may remove or alter legally required attribution or license notices.
+
+Third-party software shall be inventoried before production deployment.
+
+---
+
+19. Source Code
+
+Source-code access shall be determined by the applicable Statement of Work.
+
+Possible models include:
+
+- binary-only license;
+- API access;
+- source-code escrow;
+- restricted source-code access;
+- full source-code license.
+
+Source-code access does not automatically transfer ownership.
+
+---
+
+20. Exclusivity
+
+No exclusivity exists unless expressly stated in a signed written agreement.
+
+If exclusivity is requested, the Parties shall define:
+
+- territory;
+- vehicle category;
+- product scope;
+- duration;
+- minimum purchase / deployment commitment;
+- minimum royalty;
+- termination conditions.
+
+---
+
+21. Improvements and Derivative Works
+
+The Parties shall separately identify:
+
+1. Lightning AI platform improvements;
+2. OEM-specific integration;
+3. OEM proprietary technology;
+4. jointly developed technology.
+
+Ownership shall be allocated in writing before commercial deployment.
+
+---
+
+22. Warranties
+
+Except as expressly stated in a signed agreement, the POC is provided on an "as is" development basis.
+
+No representation is made that the POC:
+
+- satisfies every regulatory requirement;
+- is suitable for every vehicle;
+- is free from defects;
+- is certified for road use;
+- is suitable for safety-critical deployment.
+
+Production warranties shall be established separately.
+
+---
+
+23. Liability
+
+The Parties shall negotiate liability allocation according to:
+
+- system function;
+- deployment environment;
+- applicable law;
+- negligence;
+- product liability;
+- cybersecurity incidents;
+- data breaches;
+- intellectual-property infringement;
+- regulatory violations.
+
+Mandatory statutory liability cannot be excluded where prohibited by applicable law.
+
+---
+
+24. Insurance
+
+For production deployment, the Parties shall determine appropriate insurance requirements, which may include:
+
+- commercial general liability;
+- professional liability;
+- cyber insurance;
+- product liability;
+- technology errors and omissions.
+
+---
+
+25. Termination
+
+The Agreement may be terminated according to agreed contractual conditions, including:
+
+- material breach;
+- non-payment;
+- insolvency;
+- regulatory prohibition;
+- sanctions restrictions;
+- unresolved security violations.
+
+Termination shall not automatically terminate accrued payment obligations.
+
+---
+
+26. Survival
+
+The following provisions shall survive termination where applicable:
+
+- confidentiality;
+- intellectual property;
+- accrued royalties;
+- audit rights;
+- data protection;
+- liability;
+- dispute resolution.
+
+---
+
+27. Governing Law
+
+The Parties shall select governing law in the executed Agreement.
+
+Possible choices may include:
+
+- Swiss law;
+- Taiwan law;
+- applicable U.S. state law;
+- another mutually agreed jurisdiction.
+
+The governing-law clause must be reviewed by qualified counsel before execution.
+
+---
+
+28. Dispute Resolution
+
+The Parties may select:
+
+- court jurisdiction;
+- arbitration;
+- Swiss arbitration;
+- another mutually agreed international arbitration forum.
+
+The final agreement shall specify:
+
+- seat of arbitration;
+- language;
+- number of arbitrators;
+- applicable arbitration rules.
+
+---
+
+29. No Government Affiliation
+
+Neither Party may represent that the other Party is affiliated with or endorsed by:
+
+- the United States Government;
+- the President of the United States;
+- the Government of Taiwan;
+- the Government of the People's Republic of China;
+- the Swiss Confederation;
+- the European Union;
+- any regulatory authority,
+
+unless such representation is supported by written authorization.
+
+---
+
+30. No Investment Offer
+
+Commercial projections, royalty examples and business-model estimates are not investment offers, securities offerings or guarantees of return.
+
+Any investment transaction requires separate documentation and applicable legal review.
+
+---
+
+31. Order of Precedence
+
+If documents conflict, the following order shall apply unless otherwise agreed:
+
+1. executed Master Agreement;
+2. executed Statement of Work;
+3. executed IP / License Agreement;
+4. executed Data Processing Agreement;
+5. other signed amendments;
+6. public repository documentation;
+7. public marketing materials.
+
+---
+
+32. Entire Agreement
+
+The executed Agreement and its signed schedules constitute the agreement between the Parties concerning the applicable project.
+
+Any amendment must be made in writing and signed by authorized representatives.
+
+---
+
+Schedule A — Commercial Terms
+
+Development Fee: [●]
+
+Minimum Guarantee: NT$1,000,000
+
+Royalty: 5%
+
+Royalty Base: [●]
+
+Payment Currency: [●]
+
+Payment Frequency: [Monthly / Quarterly / Annual]
+
+Territory: [●]
+
+Vehicle Program: [●]
+
+License Term: [●]
+
+Exclusivity: [None / Defined]
+
+---
+
+Schedule B — Technical Scope
+
+- AI Gateway
+- Edge AI
+- Computer Vision
+- Voice AI
+- Navigation
+- Vehicle Data Integration
+- Cybersecurity
+- Safety Alerts
+- Software Updates
+- Fleet / Diagnostic Intelligence
+
+Final production scope shall be defined in the Statement of Work.
+
+---
+
+Schedule C — Compliance Gate
+
+Before production release:
+
+[ ] IP review completed
+[ ] NDA completed
+[ ] Development Agreement completed
+[ ] License Agreement completed
+[ ] Royalty definition completed
+[ ] Data-flow review completed
+[ ] Privacy review completed
+[ ] Export-control review completed
+[ ] Sanctions screening completed
+[ ] Cybersecurity assessment completed
+[ ] Safety assessment completed
+[ ] Vehicle regulatory classification completed
+[ ] Required testing completed
+[ ] Required certification / type approval completed
+[ ] Production authorization completed
+
+---
+
+Document Status: Commercial Draft
+
+Important: This document is a negotiation template, not a legal opinion. Execution should be reviewed by qualified counsel in the relevant jurisdictions.這份最關鍵的地方，我特別沒有讓「5%」變成一句模糊的口號，而是鎖定 Royalty Base + Minimum Guarantee + Audit Rights + IP Ownership。
+
+接下來你就可以把內部程式碼跟這份法律層分開：
+
+Ai-main/
+├── src/
+│   └── lightning_ai/
+├── tests/
+├── docs/
+├── legal/
+│   ├── contracts/
+│   ├── usa/
+│   ├── taiwan/
+│   ├── china/
+│   ├── switzerland/
+│   ├── eu/
+│   └── international/
+├── compliance/
+└── README.md
+
+你寫程式，我們就把法律邊界一起寫進架構。
+特別是不要把 API keys、車輛真實個資、OEM 機密或尚未申請專利的敏感技術直接丟進公開 GitHub。
+
+另外，這份合約現在仍是談判草案，不是可以直接簽名的法律文件；跨美國、台灣、中國、瑞士的真正交易，最後一定要由相應司法管轄區的律師確認。
+
+如果你要，我下一步可以直接接著替你做 legal/contracts/ 裡的 NDA + IP Assignment + Software License + 5% Royalty Agreement + OEM Integration Agreement 五份完整文件，讓你的 repo 法律入口一次成形。
+
+
+
+你就負責內部 coding；公開 repo 保持 POC；私有 repo 放真正程式碼、測試資料、OEM 資料與密鑰。 這樣 Contract → IP → Compliance → Code 才能真正接起來。
 Lightning AI Taiwan × Switzerland AI Co-Pilot
 
 Project Status
