@@ -189,4 +189,39 @@ AI 模型負責生成與協助，工程師負責決策、審查與測試。
 
 «瑞士做 AI 研發、AI 工具協助生成程式碼，台灣做車輛整合與實車驗證，Lightning AI 把既有汽車變成 AI 副駕駛平台。»
 
+中國量產車平台
+
+Lightning AI 研究如何利用已經完成量產的中國車輛平台，搭配 AI Gateway、Computer Vision、Edge AI、Mobile AI 與 Navigation AI，建立低成本 AI Co-Pilot。
+
+核心概念不是重新製造整台汽車，而是：
+
+中國量產車
+    ↓
+既有攝影機／導航／GPS／車況資料
+    ↓
+AI Gateway
+    ↓
+AI Vision + AI Voice
+    ↓
+道路情境理解
+    ↓
+導航建議／語音提醒
+    ↓
+AI Co-Pilot
+
+Taiwan × China × Switzerland
+
+- China：研究既有量產車輛平台與車載硬體整合
+- Taiwan：進行軟體整合、POC、測試與產品驗證
+- Switzerland：研究 AI 軟體架構、AI Engineering 與國際化技術方案
+
+本專案目前定位為研究與 POC，不代表任何特定中國車輛已取得台灣進口、銷售或道路使用許可。
+
+核心定位
+
+«Lightning AI — AI for Existing Vehicles»
+
+利用成熟量產車輛平台增加 AI 能力，而不是複製 Tesla 的整車 AI 開發模式。
+
+
 
