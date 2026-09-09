@@ -1,0 +1,59 @@
+Ai-main/
+│
+├── README.md
+│
+├── legal/
+│   │
+│   ├── LEGAL_NOTICE.md
+│   ├── JURISDICTION_MATRIX.md
+│   ├── COMPLIANCE_MATRIX.md
+│   ├── CERTIFICATION_ROADMAP.md
+│   │
+│   ├── usa/
+│   │   ├── federal-law.md
+│   │   ├── executive-orders.md
+│   │   ├── export-control.md
+│   │   ├── sanctions.md
+│   │   └── intellectual-property.md
+│   │
+│   ├── taiwan/
+│   │   ├── legal-framework.md
+│   │   ├── privacy.md
+│   │   ├── cybersecurity.md
+│   │   ├── vehicle-regulation.md
+│   │   └── intellectual-property.md
+│   │
+│   ├── china/
+│   │   ├── legal-framework.md
+│   │   ├── cybersecurity.md
+│   │   ├── data-security.md
+│   │   ├── personal-information.md
+│   │   ├── automotive-data.md
+│   │   └── export-control.md
+│   │
+│   ├── switzerland/
+│   │   ├── legal-framework.md
+│   │   ├── data-protection.md
+│   │   └── contract-law.md
+│   │
+│   ├── eu/
+│   │   ├── ai-act.md
+│   │   ├── gdpr.md
+│   │   ├── vehicle-regulation.md
+│   │   └── cybersecurity.md
+│   │
+│   ├── international/
+│   │   ├── wipo.md
+│   │   ├── pct.md
+│   │   ├── arbitration.md
+│   │   └── choice-of-law.md
+│   │
+│   └── contracts/
+│       ├── nda.md
+│       ├── development-agreement.md
+│       ├── ip-agreement.md
+│       ├── software-license.md
+│       ├── royalty-agreement.md
+│       ├── oem-integration.md
+│       ├── testing-agreement.md
+│       └── production-agreement.md
